@@ -26,9 +26,8 @@
 
 
 <h2>Блок-схема</h2>
-<img width="462" height="1095" alt="image" src="https://github.com/user-attachments/assets/9ac5e630-ba10-45dd-b6cb-558c0dc9ded5" />
-
-
+<<img width="257" height="695" alt="image" src="https://github.com/user-attachments/assets/f5455e28-1781-42b1-836d-5d27fe071de6" />
+ 
 
 <h2>Как работает программа:</h2>
 
